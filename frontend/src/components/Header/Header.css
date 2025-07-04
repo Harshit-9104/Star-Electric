@@ -1,0 +1,18 @@
+/* .header{
+    height: 54vh;
+    width: 720px;
+    margin: 15px auto;
+    background : url('/pump.jpg') no-repeat center center/cover;
+    background-size: contain;
+    position: relative;
+} */
+
+.header img{
+    width: 1080px;
+    height: 64vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 15px auto;
+    border-radius: 10px;
+}
